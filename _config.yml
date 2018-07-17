@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Alex's Coding Adventures
 header-img: img/home-bg.png
 email: acschwerin@gmail.com
 copyright_name: AlexCodeBigBlue
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My genius plan to understand all the programming XKCD comics
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AlexCodeBigBlue
